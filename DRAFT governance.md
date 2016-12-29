@@ -42,7 +42,7 @@ The foundation will be organized around projects. These projects can grow in mar
 
 These separate communities are referred to as "projects" and while similar, each of them exhibit little differences that make them special.
 
-In order to reduce friction and allow for diversity to emerge, rather than forcing a monoculture from the top, the projects are designated the central decision-making organizations of the Zephyr Foundation world. Each project is delegated authority over development of its software and data, and is given a great deal of latitude in designing its own technical charter and its own governing rules.
+In order to reduce friction and allow for diversity to emerge, rather than forcing a monoculture from the top, individual projects are the central decision-making organizations of the Zephyr Foundation. Each project is delegated authority over development of its software and data, and is given a great deal of latitude in designing its own technical charter and its own governing rules.
 
 The foundation is governed by the following entities:
 
@@ -57,7 +57,7 @@ The board is responsible for management and oversight of the business and affair
 
 However, technical decision-making authority regarding the content and direction of the individual projects is assigned to each respective project management committee.
 
-The board is initially composed by seven individuals, elected by the members of the foundation. Two members of the board are elected every year.
+The board is initially composed by seven individuals, elected by the members of the foundation. Two to three members of the board are elected every year.
 
 #### PROJECT MANAGEMENT COMMITTEES (PMC)
 The Project Management Committees are established by resolution of the Board, to be responsible for the active management of one or more communities, which are also identified by resolution of the Board.
@@ -68,15 +68,15 @@ The chair of the PMC is appointed by the Board, has primary responsibility to th
 
 The foundation Bylaws (section 6.3) define a PMC and the position of chair. The role of the PMC from a Foundation perspective is oversight. The main role of the PMC is not to develop the technical approach - but to ensure that all legal issues are addressed, that procedure is followed, and that each and every release is the product of the community as a whole. That is key to our litigation protection mechanisms.
 
-Secondly the role of the PMC is to further the long term development and health of the community as a whole, and to ensure that balanced and wide scale peer review and collaboration does happen. Within the foundation we worry about any community which centers around a few individuals who are working virtually uncontested. We believe that this is detrimental to quality, stability, and robustness of both code and long term social structures.
+Secondly the role of the PMC is to further the long term development and health of the community as a whole, and to ensure that balanced and wide scale peer review and collaboration does happen. Within the foundation, we worry about any community which centers around a few individuals who are working virtually uncontested. We believe that this is detrimental to quality, stability, and robustness of both code and long-term social structures.
 
-We firmly believe in hats. Your role at the foundation is one assigned to you personally, and is bestowed on you by your peers. It is not tied to your job or current employer or company.
+We firmly believe in hats. Your role at the foundation is one assigned to you personally, and is bestowed on you by your peers. It is not tied to your job or current employer or organization.
 
-However those on the PMC are kept to a higher standard. As the PMC, and the chair in particular, are eyes and ears of the foundation Board, it is you that we rely on and need to trust to provide legal oversight.
+However those on the PMC are kept to a higher standard. The PMC, and the chair in particular, are eyes and ears of the foundation Board, it is you that we rely on and need to trust to provide legal oversight.
 
 The board has the faculty to terminate a PMC at any time by resolution.
 
-The Apache Developer Information pages have many more details of how PMCs work. A complete list of all foundation projects is also available.
+The Zephyr Foundation takes many of its PMC concepts from the Apache Foundation. The [Apache Developer Information](https://www.apache.org/dev/) pages have many more details of how PMCs work.
 
 #### OFFICERS
 The Officers of the foundation oversee the day-to-day affairs of the Foundation. The officers are elected by the Board of Directors.
@@ -122,7 +122,7 @@ Some projects additionally use more synchronous messaging or video chats (for ex
 In general, asynchronous communication is much more important because it allows archives to be created and it's more tolerant on the volunteer nature of the various communities.
 
 #### DOCUMENTATION
-Each project is responsible for its own project website. Further information to assist committers, developers, and PMCs is available at [Infrastructure].
+Each project is responsible for its own project website. Further information to assist committers, developers, and PMCs is available at [Infrastructure](https://www.apache.org/dev/infrastructure.html).
 
 #### DECISION MAKING
 Projects are normally auto-governing and driven by the people who volunteer for the job. This is sometimes referred to as "do-ocracy" -- power of those who do. This functions well for most cases.
@@ -174,8 +174,6 @@ Unless they specifically state otherwise, whatever they post on any mailing list
 
 All of those foundation people implicitly have multiple hats, especially the Board, the other officers, and the PMC chairs. They sometimes need to talk about a matter of policy, so to avoid appearing to be expressing a personal opinion, they will state that they are talking in their special capacity. However, most of the time this is not necessary, personal opinions work well.
 
-Some people declare their hats by using a special footer to their email, others enclose their statements in special quotation marks, others use their apache.org email address when otherwise they would use their personal one. This latter method is not reliable, as many people use their apache.org address all of the time.
-
 #### BALANCING CONFIDENTIALITY AND PUBLIC DISCUSSION
 We endeavor to conduct as much discussion in public as possible. This encourages openness, provides a public record, and stimulates the broader community.
 
@@ -220,10 +218,6 @@ Diversity of associateship is important for two main reasons:
 
 * it gives a greater variety of technical visions: something that guarantees a better adherence to environment and user's needs, thus a higher change of finding real-life use of the software.
 
-## OTHER FOUNDATION ENTITIES
-Along with the Incubator, the foundation has several other cross-foundation projects. 
-
-
 ## IN REVIEW...
-The Apache Foundation represents one of the best examples of an open organization that has found balance between structure and flexibility. We hope to emulate their success here. We strive to find balance between openness and economical feasibility. We hope to continue to provide inspiration for businesses, governments, education, and for other foundations.
+The Zephyr Foundation represents one of the best examples of an open organization that has found balance between structure and flexibility. We hope to emulate their success here. We strive to find balance between openness and economical feasibility. We hope to continue to provide inspiration for businesses, governments, education, and for other foundations.
 
