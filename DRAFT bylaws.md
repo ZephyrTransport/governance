@@ -192,8 +192,11 @@ Each Project Management Committee shall be responsible for the active management
 
 The Board of Directors of the corporation may, by resolution, terminate a Project Management Committee at any time.
 
-#### Section 6.4. *Election and Term*.
-The officers of the corporation and the members of each existing Project Management Committee shall be appointed by the Board of Directors or appointed by an officer empowered by the Board to make such appointment. Such appointment by the Board of Directors may be made at any regular or special meeting of the Board. Each officer shall hold office and each member of a Project Management Committee shall serve on such committee for a period of three years or until his or her successor is elected and qualified or until his or her earlier resignation or removal.
+#### Section 6.4.1. *Election and Term - Officers*.
+The officers of the corporation shall be nominated by the Board of Directors and ratified by the members of the corporation. Officer shall be considered for ratification at the annual meeting. If an officer position becomes vacanct, the Board may choose to appoint an officer on an interim basis until the next meeting of the members. Each officer shall hold office  for a period of three years or until his or her successor is elected and qualified or until his or her earlier resignation or removal.
+
+#### Section 6.4.2. *Election and Term - Project Management Committee(s)*.
+ The members of each existing Project Management Committee shall be appointed by the Board of Directors or appointed by an officer empowered by the Board to make such appointment. Such appointment by the Board of Directors may be made at any regular or special meeting of the Board. Each member of a Project Management Committee shall serve on such committee for a period of three years or until his or her successor is elected and qualified or until his or her earlier resignation or removal.
 
 #### Section 6.5. *Removal of Officers*.
 Any officer or agent and any member of a Project Management Committee elected or appointed by the Board of Directors may be removed by the Board whenever, in its judgment, the best interests of the corporation will be served thereby.
@@ -219,7 +222,7 @@ Any books, records and minutes may be in written form or in any other form capab
 #### Section 7.2. *Members' Inspection Rights*.
 Any person who is a member, upon written demand under oath stating the purpose thereof, shall have the right to examine, in person or by agent or attorney, at any time during the corporation's usual hours for business, for any proper purpose as determined under the General Corporation Law of the State of Delaware, the corporation's membership records and its other books and records and to make copies or extracts therefrom. 
 
-### Section 7.3 *Annual Audit Requirement*
+### Section 7.3. *Annual Audit Requirement*
 The corporation shall complete an annual audit of its financial records. The audit shall be completed by an independent auditor with no affiliation to the corporation. The audit shall be reported to the Board, its officers, and its members in a timely manner in accordance with the corporations notification procedures. The secretary of the corporation shall retain audits for a minimum of 5 years or as prescribed in state or federal statute, whichever is longer.
 
 ## ARTICLE VIII
