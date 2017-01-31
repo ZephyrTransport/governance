@@ -26,7 +26,7 @@ A meeting of the members shall be held annually at such time as the Board of Dir
 Special meetings of the members shall be held when directed by the Board of Directors, or when requested in writing by not less than ten percent (10%) of all members entitled to vote at the meeting. The call for the meeting shall be issued by the Secretary, unless the Board of Directors or members requesting the meeting shall designate another person to do so.
 
 #### Section 3.4. *Notice*. 
-Written notice stating the place, date and hour of the meeting and, in the case of a special meeting, the purpose or purposes for which the meeting is called, shall be delivered not less than ten (10) nor more than sixty (60) days before the date of the meeting, by email.
+Written notice stating the place, date and hour of the meeting and, in the case of a special meeting, the purpose or purposes for which the meeting is called, shall be delivered not less than ten (10) nor more than sixty (60) days before the date of the meeting, by email. All meetings of a quorum of members shall be noticed on the corporation's website.
 
 Notwithstanding the above paragraph, the corporation shall not be required to give notice of a members' meeting to any member to whom notice of two consecutive annual meetings, and all notices of meetings or of the taking of action by written consent without a meeting to such member during the period between such two consecutive annual meetings, have been sent under the procedures outlined above and have been returned undeliverable. Any action or meeting which shall be taken or held without notice to such member shall have the same force and effect as if such notice had been duly given. If any such member delivers to the corporation a written notice setting forth his or her then current address, the requirement that notice be given to such member shall be reinstated.
 
@@ -135,9 +135,9 @@ The Board of Directors, by resolution adopted in accordance with this section, m
 Regular and special meetings of the Board of Directors may be held within or outside the State of Delaware and within or outside the United States.
 
 #### Section 5.11. *Time, Notice and Call of Meetings*. 
-Regular meetings of the Board of Directors shall be held immediately following the annual meeting of members each year and at such times thereafter as the Board of Directors may fix. No notice of regular directors' meetings shall be required.
+Regular meetings of the Board of Directors shall be held immediately following the annual meeting of members each year and at such times thereafter as the Board of Directors may fix. Board of Directors' meetings shall be noticed on the corporation's website.
 
-Special meetings of the Board of Directors shall be held at such times as called by the Chairman of the Board or any two (2) directors. Written notice of the time and place of special meetings of the Board of Directors shall be given to each director by either personal delivery or email at least two (2) days before the meeting, or by notice mailed to each director at least five (5) days before the meeting.
+Special meetings of the Board of Directors shall be held at such times as called by the Chairman of the Board or any two (2) directors. Written notice of the time and place of special meetings of the Board of Directors shall be given to each director by either personal delivery or email at least two (2) days before the meeting, or by notice mailed to each director at least five (5) days before the meeting. Special meetings shall be noticed on the corporation's website.
 
 Notice of a meeting of the Board of Directors need not be given to any director who signs a waiver of notice, either before or after the meeting. Attendance of a director at a meeting shall constitute a waiver of notice of such meeting and waiver of any and all objections to the place of the meeting, the time of the meeting, or the manner in which it has been called or conveyed, except when a director states, at the beginning of the meeting, any objection to the transaction of business because the meeting is not lawfully called or convened.
 
