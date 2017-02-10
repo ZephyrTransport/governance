@@ -62,22 +62,25 @@ The Board is composed of seven individuals, elected by the members of the founda
 
 PMCs are established by resolution of the Board, to be responsible for the active management of one or more communities, which are also identified by resolution of the Board.  Each project is delegated authority to design its own technical charter and its own governing rules.  This delegation of technical guidance is intended to foster diversity of ideas and methods in the outcomes of the foundation's activities.  Project procedures must always comply with the Bylaws.
 
+The primary role of each PMC is oversight -- not to develop the technical approach, but to ensure that all legal issues are addressed, that procedure is followed, and that each and every release is the product of the community as a whole.  Successful execution of this oversight role is a key component of the foundation's litigation protection mechanisms.
+
+Each PMC is also tasked with furthering the long term development and health of the community as a whole, and ensuring that balanced and wide-scale peer review and collaboration happen. PMCs shall activitely discourage communities centered around a few individuals who work virtually uncontested for long periods. We believe that this is detrimental to the quality, relevance, and robustness of products and of the travel demand forecasting industry at large.
+
+#####PMC Chairperson
 Each PMC is led by a chairperson, and in addition consists of at least one officer of the foundation.  The PMC may include one or more other members of the Foundation, at the discretion of the chair.
 
-The chair of the PMC is appointed by the Board, has primary responsibility to the Board, and has the power to establish rules and procedures for the day-to-day management of the communities for which the PMC is responsible, including the composition of the PMC itself.  Section 6.3 of the Bylaws define a PMC and the position of chair. 
+The chair of a PMC is appointed by the Board, has primary responsibility to the Board, and has the power to establish rules and procedures for the day-to-day management of the communities for which that PMC is responsible, including the composition of the PMC itself.  Section 6.3 of the Bylaws define a PMC and the position of chair. 
 
-The primary role of the PMC is oversight -- not to develop the technical approach, but to ensure that all legal issues are addressed, that procedure is followed, and that each and every release is the product of the community as a whole.  Successful execution of this oversight role is a key component of the foundation's litigation protection mechanisms.
+#####PMC Members
+Members of PMCs are kept to a higher standard than all other members of the foundation. This is because the PMCs and appointed chairs are directly responsible for the main activities carried out by the foundation.  The Board and the membership rely on each PMC to ensure that their corresponding communities behave always in a lawful manner, and in accordance to the Bylaws and the mission and goals of the foundation.
 
-The PMC is also tasked with furthering the long term development and health of the community as a whole, and ensuring that balanced and wide-scale peer review and collaboration happen. PMCs shall activitely discourage communities centered around a few individuals who work virtually uncontested for long periods. We believe that this is detrimental to the quality, relevance, and robustness of products and of the travel demand forecasting industry at large.
+#####PMC Concepts and Governance
+The Zephyr Foundation takes many of its PMC ideas from the Apache Foundation. The [Apache Developer Information](https://www.apache.org/dev/) is taken as guidance where specific Zephyr Foundation PMC guidance has yet to be established and there are no conflicts with Zephyr Foundation bylaws or other established governance.
 
-Members of PMCs are kept to a higher standard than all other members of the foundation. This is because the PMC, and the chair in particular, are directly responsible for the main activities carried out by the foundation.  The Board and the membership rely on the PMC to ensure that communities behave always in a lawful manner, and in accordance to the Bylaws and the mission and goals of the foundation.
-
-The Zephyr Foundation takes many of its PMC concepts from the Apache Foundation. The [Apache Developer Information](https://www.apache.org/dev/) pages have many more details of how PMCs work.
-
-#### OFFICERS
+#### OFFICERS of the Foundation
 The Officers of the foundation oversee the day-to-day affairs of the Foundation. The officers are nominated by the Board of Directors and elected by the membership.
 
-#### MEMBERS
+#### MEMBERS of the Foundation
 Persons are appointed as members on the basis of merit, for the evolution and progress of the foundation. Members care for the foundation itself. This is usually demonstrated through project-related and cross-project activities. Legally, a member is a "shareholder" of the foundation; that is, one of its owners. Members have the right to elect the Board, to stand as a candidate for Board election and to nominate persons for membership. They also have the right to propose a new project for incubation. Members coordinate their activities through their mailing list and through their annual meeting.
 
 ## ROLES
@@ -104,7 +107,7 @@ A contributor is someone who contributes to a project in the form of data, code,
 A PMC member is a stakeholder or user appointed due to merit for the evolution of the project and demonstration of commitment. PMC members have write and owner-level access to the project files, an organization email address, and the right to vote on community-related decisions (including formal release of the project products). PMC members are appointed by the PMC chair.
 
 #### PMC CHAIR
-The PMC chair is appointed by the Board and is tasked with establishing rules and procedures for the day-to-day management of the project community, including the composition of the PMC itself.
+Each PMC chair is appointed by the Board and is tasked with establishing rules and procedures for the day-to-day management of the project community, including the composition of their respective PMC.
 
 ## PROJECT MANAGEMENT AND COLLABORATION
 Projects are managed using a collaborative, consensus-based process. The foundation does not have a hierarchical structure. Rather, different groups of contributors have different rights and responsibilities in the organization.
