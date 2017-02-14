@@ -1,6 +1,6 @@
 # DRAFT How Zephyr Works
 
-This page gives an overview of the mission, goals, and governance structure of the Zephyr Foundation for Advancing Travel Analysis Methods, as well as a narrative of the philosophy behind the foundation and guidance for conducting the foundation business.
+Here we provide an overview of the mission, goals, and governance structure of the Zephyr Foundation for Advancing Travel Analysis Methods, as well as a narrative of the philosophy behind the foundation and guidance for conducting foundation business.
 
 **Contents:**
 
@@ -14,7 +14,7 @@ This page gives an overview of the mission, goals, and governance structure of t
 
 ## WHAT IS THE ZEPHYR FOUNDATION FOR ADVANCING TRAVEL ANALYSIS METHODS?
 
-The Zephyr foundation is a 501(c)3 non-profit public charity organization incorporated in the United States of America, formed in 2016. The organization's mission is to advance rigorous transportation and land use decision-making for the public good by advocating for, facilitating, and supporting improved travel analysis and forecasting methods. 
+The Zephyr foundation is a 501(c)3 non-profit public charity organization incorporated in the United States of America, formed in 2017. The organization's mission is to advance rigorous transportation and land use decision-making for the public good by advocating for, facilitating, and supporting improved travel analysis and forecasting methods. 
 
 The foundation serves as an independent legal entity to which community members can contribute code, ideas, methods, funding, and other resources, secure in the knowledge that their contributions will be maintained for public benefit.
 
@@ -32,7 +32,7 @@ To serve this mission, the foundation has established the following goals:
 
 * Convene. Convene leading academics and practitioners to guide the Foundation’s efforts.
 
-The foundation is organized around projects, also referred to as communities. Projects focus on different aspects of travel demand modeling and data analysis, with the ultimate goal of supporting good planning outcomes. The foundation therefore carries out its mission by executing projects, and by maintaining and sharing the products of these projects with the public at large.  Projects undertaken by the foundation should advance one or more of the foundation's goals.  The projects are conducted according to the etiquette and process established in the Bylaws and this narrative, and additional guidelines established on a project-by-project basis.  
+The foundation is organized around projects, also referred to as communities. Projects focus on different aspects of travel demand modeling and data analysis, with the ultimate goal of supporting good planning outcomes. The foundation therefore carries out its mission by executing projects, and by maintaining and sharing the products of these projects with the public.  Projects undertaken by the foundation should advance one or more of the foundation's goals.  The projects are conducted according to the etiquette and process established in the Bylaws and this narrative, and additional project-specific guidelines.  
 
 While participating in the foundation's activities, which includes using its products, members, stakeholders and users agree to respect and follow the foundation's processes and Bylaws, and to conduct themselves in a manner consistent with the foundation's mission.  Persons involved in the foundation's activities do so in a personal capacity, and never as representatives of the organizations they otherwise work or advocate for.  This means that users and contributors exercise good judgment in disclosing potential conflicts of interest, and also that members retain their foundation roles and responbilities irrespective of changes in their work association. 
 
@@ -56,7 +56,7 @@ The Board selects projects for funding and establishes the PMCs that will guide 
 
 The Board has the faculty to terminate a PMC and/or replace a PMC chair at any time by resolution.  
 
-The Board is composed of seven individuals, elected by the members of the foundation. Two to three members of the board are elected every year.
+The Board is composed of seven individuals, elected by the members of the foundation. Two to three members of the board are elected annually.
 
 #### PROJECT MANAGEMENT COMMITTEES (PMC)
 
@@ -67,18 +67,18 @@ The primary role of each PMC is oversight -- not to develop the technical approa
 Each PMC is also tasked with furthering the long term development and health of the community as a whole, and ensuring that balanced and wide-scale peer review and collaboration happen. PMCs shall activitely discourage communities centered around a few individuals who work virtually uncontested for long periods. We believe that this is detrimental to the quality, relevance, and robustness of products and of the travel demand forecasting industry at large.
 
 #####PMC Chairperson
-Each PMC is led by a chairperson, and in addition consists of at least one officer of the foundation.  The PMC may include one or more other members of the Foundation, at the discretion of the chair.
+Each PMC is led by a chairperson, and in addition consists of at least one officer of the foundation.  The PMC may include one or more other members of the foundation, at the discretion of the chair.
 
 The chair of a PMC is appointed by the Board, has primary responsibility to the Board, and has the power to establish rules and procedures for the day-to-day management of the communities for which that PMC is responsible, including the composition of the PMC itself.  Section 6.3 of the Bylaws define a PMC and the position of chair. 
 
 #####PMC Members
-Members of PMCs are kept to a higher standard than all other members of the foundation. This is because the PMCs and appointed chairs are directly responsible for the main activities carried out by the foundation.  The Board and the membership rely on each PMC to ensure that their corresponding communities behave always in a lawful manner, and in accordance to the Bylaws and the mission and goals of the foundation.
+Members of PMCs are kept to a higher standard than all other members of the foundation. This is because the PMCs and appointed chairs are directly responsible for the main activities carried out by the foundation.  The Board and the membership rely on each PMC to ensure that their corresponding communities always behave in a lawful manner, and in accordance to the Bylaws and the mission and goals of the foundation.
 
 #####PMC Concepts and Governance
 The Zephyr Foundation takes many of its PMC ideas from the Apache Foundation. The [Apache Developer Information](https://www.apache.org/dev/) is taken as guidance where specific Zephyr Foundation PMC guidance has yet to be established and there are no conflicts with Zephyr Foundation bylaws or other established governance.
 
 #### OFFICERS of the Foundation
-The Officers of the foundation oversee the day-to-day affairs of the Foundation. The officers are nominated by the Board of Directors and elected by the membership.
+The Officers of the foundation oversee the day-to-day affairs of the foundation. The officers are nominated by the Board of Directors and elected by the membership.
 
 #### MEMBERS of the Foundation
 Persons are appointed as members on the basis of merit, for the evolution and progress of the foundation. Members care for the foundation itself. This is usually demonstrated through project-related and cross-project activities. Legally, a member is a "shareholder" of the foundation; that is, one of its owners. Members have the right to elect the Board, to stand as a candidate for Board election and to nominate persons for membership. They also have the right to propose a new project for incubation. Members coordinate their activities through their mailing list and through their annual meeting.
@@ -86,7 +86,7 @@ Persons are appointed as members on the basis of merit, for the evolution and pr
 ## ROLES
 The foundation operates as a meritocracy; that is, it is governed by members selected on the basis of ability.  And furthermore, governance responsibilities are accorded to individuals that have demonstrated commitment to contribute to the foundation mission and goals. 
 
-Persons need not be foundation members to participate in projects.  Individuals can participate in project communities in several capacities:  
+Persons need not be foundation members to participate in projects.  Individuals can participate in project communities in the following capacities:  
 
 * Stakeholder
 * User
@@ -115,7 +115,7 @@ Projects are managed using a collaborative, consensus-based process. The foundat
 Since PMCs have the authority to create their own self-governing rules, there is no single vision on how PMCs should run a project and the communities they host.  At the same time, projects share the following recommended best practices:
 
 #### COMMUNICATION
-Communication is done via emailing lists. These identify "virtual meeting rooms" where conversations happen asynchronously, to facilitate collaboration over multiple time zones and locations.  Virtual meeting rooms can be a GitHub issue, an online shared document, or something else.  Some projects may also use more synchronous messaging or video chats (for example, instant messaging, skype, or google hangout), again in the interest of effective and timely interaction.  In general, asynchronous communication is preferred because it allows for archives to be created, and is more respectful of volunteers' time availability.
+Communication is done via email lists. These identify "virtual meeting rooms" where conversations happen asynchronously, to facilitate collaboration over multiple time zones and locations.  Virtual meeting rooms can be a GitHub issue, an online shared document, or something else.  Some projects may also use more synchronous messaging or video chats, again in the interest of effective and timely interaction.  In general, asynchronous communication is preferred because it allows for archives to be created, and is more respectful of volunteers' time availability.
 
 #### DOCUMENTATION
 Each project is responsible for its own project website. Further information to assist contributors and PMCs is available at [Infrastructure](https://www.apache.org/dev/infrastructure.html).
@@ -133,7 +133,7 @@ Voting is done with numbers:
 
 -1 -- a negative vote
 
-The rules require that a negative vote includes an alternative proposal or a detailed explanation of the reasons for the negative vote.
+A negative vote must include an alternative proposal or a detailed explanation of the reasons for the negative vote.
 
 The community then tries to gather consensus on an alternative proposal that resolves the issue. In the great majority of cases, the concerns leading to the negative vote can be addressed.
 
@@ -161,14 +161,14 @@ All of the foundation projects share these principles. Similarly, foundation pro
 #### OPERATION
 All projects are composed of volunteers and nobody (not even members or officers) are paid directly by the foundation for their job. There are many examples of committers that are paid to work on the projects, but never by the foundation themselves, but rather by companies or institutions that use the software and want to enhance it or maintain it.
 
-The foundation contracts out various services, including accounting, press and media relations, and infrastructure system administration.
+The foundation may contract out various services, including accounting, press and media relations, and infrastructure system administration.
 
 #### INDIVIDUALS COMPOSE THE FOUNDATION
 All of the foundation including the board, officers, contributors, and members are participating as individuals. That is one strength of the foundation: affiliations do not cloud the personal contributions.
 
 Unless they specifically state otherwise, whatever they post on any mailing list is done as themselves. It is the individual point-of-view, wearing their personal hat and not as a mouthpiece for whatever company happens to be signing their paychecks right now, and not even as a director of the foundation.
 
-All of those foundation people implicitly have multiple hats, especially the Board, the other officers, and the PMC chairs. They sometimes need to talk about a matter of policy, so to avoid appearing to be expressing a personal opinion, they will state that they are talking in their special capacity. However, most of the time this is not necessary, personal opinions work well.
+Individuals working with the foundation implicitly have multiple hats, especially the Board, the other officers, and the PMC chairs. They sometimes need to talk about a matter of policy, so to avoid appearing to be expressing a personal opinion, they will state that they are talking in their special capacity. However, most of the time this is not necessary -- personal opinions work well.
 
 #### BALANCING CONFIDENTIALITY AND PUBLIC DISCUSSION
 Project members are encouraged to conduct as much discussion in public as possible. This promotes openness, provides a public record, and stimulates the broader community.
