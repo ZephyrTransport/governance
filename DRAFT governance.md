@@ -12,7 +12,7 @@ Here we provide an overview of the mission, goals, and governance structure of t
 * Conclusions
 
 
-## WHAT IS THE Zephyr Foundation FOR ADVANCING TRAVEL ANALYSIS METHODS?
+## WHAT IS THE ZEPHYR FOUNDATION FOR ADVANCING TRAVEL ANALYSIS METHODS?
 
 The Zephyr Foundation is a 501(c)3 non-profit public charity organization incorporated in the United States of America, formed in 2017. The organization's mission is to advance rigorous transportation and land use decision-making for the public good by advocating for, facilitating, and supporting improved travel analysis and forecasting methods. 
 
@@ -36,7 +36,7 @@ The Foundation is organized around projects, also referred to as communities. Pr
 
 While participating in the Foundation's activities, which includes using its products, members, stakeholders and users agree to respect and follow the Foundation's processes and Bylaws, and to conduct themselves in a manner consistent with the Foundation's mission.  Persons involved in the Foundation's activities do so in a personal capacity, and never as representatives of the organizations they otherwise work or advocate for.  This means that users and contributors exercise good judgment in disclosing potential conflicts of interest, and also that members retain their Foundation roles and responbilities irrespective of changes in their work association. 
 
-## Foundation STRUCTURE
+## FOUNDATION STRUCTURE
 
 The Foundation is governed by the following entities:
 
@@ -77,10 +77,10 @@ Members of PMCs are kept to a higher standard than all other members of the Foun
 #####PMC Concepts and Governance
 The Zephyr Foundation takes many of its PMC ideas from the Apache Foundation. The [Apache Developer Information](https://www.apache.org/dev/) is taken as guidance where specific Zephyr Foundation PMC guidance has yet to be established and there are no conflicts with Zephyr Foundation bylaws or other established governance.
 
-#### OFFICERS of the Foundation
+#### OFFICERS OF THE FOUNDATION
 The Officers of the Foundation oversee the day-to-day affairs of the Foundation. The officers are nominated by the Board of Directors and elected by the membership.
 
-#### MEMBERS of the Foundation
+#### MEMBERS OF THE FOUNDATION
 Persons are appointed as members on the basis of merit, for the evolution and progress of the Foundation. Members care for the Foundation itself. This is usually demonstrated through project-related and cross-project activities. Legally, a member is a "shareholder" of the Foundation; that is, one of its owners. Members have the right to elect the Board, to stand as a candidate for Board election and to nominate persons for membership. They also have the right to propose a new project for incubation. Members coordinate their activities through their mailing list and through their annual meeting.
 
 ## ROLES
@@ -163,7 +163,7 @@ All projects are composed of volunteers and nobody (not even members or officers
 
 The Foundation may contract out various services, including accounting, press and media relations, and infrastructure system administration.
 
-#### INDIVIDUALS COMPOSE THE Foundation
+#### INDIVIDUALS COMPOSE THE FOUNDATION
 All of the Foundation including the board, officers, contributors, and members are participating as individuals. That is one strength of the Foundation: affiliations do not cloud the personal contributions.
 
 Unless they specifically state otherwise, whatever they post on any mailing list is done as themselves. It is the individual point-of-view, wearing their personal hat and not as a mouthpiece for whatever company happens to be signing their paychecks right now, and not even as a director of the Foundation.
@@ -177,7 +177,7 @@ However sometimes private communication is necessary. In such instances, informa
 
 Project members are encouraged to reserve private communication for matters that require confidentiality, such as certain legal matters, or matters pertaining to people as individuals. 
 
-## THE Foundation INCUBATOR
+## THE FOUNDATION INCUBATOR
 There is special project that is tasked with assisting with the creation of new projects.  This special project is called Incubator.
 
 Since the meritocratic rules operate across the Foundation from bottom to top, it is vital for the long-term stability of such a form of government, that the initial set of committers has to know very well the dynamics of such a system, as well as share the same philosophical attitude toward collaboration and openness that the Foundation expects from its projects.
