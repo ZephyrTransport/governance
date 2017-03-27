@@ -115,7 +115,7 @@ The corporation shall initially have seven (7) directors. Thereafter, the number
 #### Section 5.5. *Election and Term*. 
 Each person named in the Certificate of Incorporation or elected by the incorporator(s) at the organization meeting, as the case may be, as a member of the initial Board of Directors shall hold office until the second annual meeting of members and until his or her successor shall have been elected and qualified or until his or her earlier resignation, removal or death.
 
-At the second annual meeting of members and at the annual meeting every year thereafter, the members shall elect two (2) directors to hold office for four (4) years. For the second, third, and forth annual meetings, the initial directors whose terms shall end will be selected via random draw. Former directors may be elected to the board at the next election, provided they are not members for at least two years. Each director shall hold office for the term for which he or she is elected and until his or her successor shall have been elected and qualified or until his or her earlier resignation, removal or death.
+At the second annual meeting of members and at the annual meeting every year thereafter, the members shall elect two (2) directors to hold office for four (4) years. For the second, third, and forth annual meetings, the initial directors whose terms shall end will be either volunteered or selected via random draw. Former directors may be elected to the board at the next election, provided they are not members for at least two years. Each director shall hold office for the term for which he or she is elected and until his or her successor shall have been elected and qualified or until his or her earlier resignation, removal or death.
 
 #### Section 5.6. *Resignation and Removal of Directors*. 
 A director may resign at any time upon written request to the corporation. Furthermore, any director or the entire Board of Directors may be removed, with or without cause, by a vote of the majority of the members entitled to vote for the election of directors or as otherwise provided in the General Corporation Law of the State of Delaware.
@@ -161,7 +161,7 @@ Common or interested directors may be counted in determining the presence of a q
 ### Officers
 
 #### Section 6.1. *Officers*. 
-The officers of the corporation shall consist of a President, a Secretary and a Treasurer, each of whom shall be elected by the Board of Directors. A Chairman of the Board, one or more Vice Chairmen, one or more Vice Presidents, and such other officers and assistant officers and agents as may be deemed necessary may be elected or appointed by the Board of Directors from time to time. Any two (2) or more offices may be held by the same person, except the offices of President and Secretary.
+The officers of the corporation shall consist of a President, a Secretary and a Treasurer, each of whom shall be elected by the Board of Directors. A Chairman of the Board, one or more Vice Chairmen, one or more Vice Presidents, a Diversity Officer, and such other officers and assistant officers and agents as may be deemed necessary may be elected or appointed by the Board of Directors from time to time. Any two (2) or more offices may be held by the same person, except the offices of President and Secretary.
 
 #### Section 6.2. *Duties*. 
 
@@ -174,7 +174,7 @@ The Chairman of the Board, if one is elected, shall preside at all meetings of t
 The Vice Chairman, if one is elected, shall, in the absence or disability of the Chairman of the Board, perform the duties and exercise the powers of the Chairman of the Board. The Vice Chairman shall also perform whatever duties and have whatever powers the Board of Directors may from time to time assign him/her. If more than one Vice Chairman is elected and the Chairman is absent or becomes disabled, the Board of Directors shall choose one Vice Chairman to perform the duties and exercise the powers of the Chairman.
 
 ##### C. President. 
-The President, if one is elected, shall be the chief executive officer of the corporation and shall have general and active management of the business and affairs of the corporation (other than the management of projects managed by a Project Management Committee), subject to the direction of the Board of Directors.
+The President shall be the chief executive officer of the corporation and shall have general and active management of the business and affairs of the corporation (other than the management of projects managed by a Project Management Committee), subject to the direction of the Board of Directors.
 
 ##### D. Vice President. 
 The Vice President, if one is elected, shall, in the absence or disability of the President, perform the duties and exercise the powers of the President. He or she also shall perform whatever duties and have whatever powers the Board of Directors may from time to time assign him or her. If more than one Vice President is elected, one thereof shall be designated as Executive Vice President and shall, in the absence or disability of the President, perform the duties and exercise the powers of the President and each other Vice President shall only perform whatever duties and have whatever powers the Board of Directors may from time to time assign him or her.

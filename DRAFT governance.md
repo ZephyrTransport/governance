@@ -64,7 +64,7 @@ PMCs are established by resolution of the Board, to be responsible for the activ
 
 The primary role of each PMC is oversight -- not to develop the technical approach, but to ensure that all legal issues are addressed, that procedure is followed, and that each and every release is the product of the community as a whole.  Successful execution of this oversight role is a key component of the Foundation's litigation protection mechanisms.
 
-Each PMC is also tasked with furthering the long term development and health of the community as a whole, and ensuring that balanced and wide-scale peer review and collaboration happen. PMCs shall activitely discourage communities centered around a few individuals who work virtually uncontested for long periods. We believe that this is detrimental to the quality, relevance, and robustness of products and of the travel demand forecasting industry at large.
+Each PMC is also tasked with furthering the long term development and health of the community as a whole, and ensuring that balanced and wide-scale peer review and collaboration happen. PMCs shall actively discourage communities centered around a two or three individuals who work without seeking broader input for long periods. We believe that this is detrimental to the quality, relevance, and robustness of products.
 
 #####PMC Chairperson
 Each PMC is led by a chairperson, and in addition consists of at least one officer of the Foundation.  The PMC may include one or more other members of the Foundation, at the discretion of the chair.
@@ -159,7 +159,7 @@ The following principles, adopted from the Apache Foundation, describe how the F
 All of the Foundation projects share these principles. Similarly, Foundation projects are required to govern themselves independently of undue commercial influence.
 
 #### OPERATION
-All projects are composed of volunteers and nobody (not even members or officers) are paid directly by the Foundation for their job. There are many examples of committers that are paid to work on the projects, but never by the Foundation themselves, but rather by companies or institutions that use the software and want to enhance it or maintain it.
+All projects are composed of volunteers and nobody (not even members or officers) are paid directly by the Foundation for their job -- though expenses for travel may be reimbursed. There are many examples of committers that are paid to work on the projects, but never by the Foundation themselves, but rather by companies or institutions that use the software and want to enhance it or maintain it.
 
 The Foundation may contract out various services, including accounting, press and media relations, and infrastructure system administration.
 
