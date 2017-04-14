@@ -118,7 +118,7 @@ Since PMCs have the authority to create their own self-governing rules, there is
 Communication is done via email lists or messaging applications. These identify "virtual meeting rooms" where conversations happen asynchronously, to facilitate collaboration over multiple time zones and locations.  Virtual meeting rooms can be a GitHub issue, an online shared document, or something else.  Some projects may also use more synchronous messaging or video chats, again in the interest of effective and timely interaction.  In general, asynchronous communication is preferred because it allows for archives to be created, and is more respectful of volunteers' time availability.
 
 #### DOCUMENTATION
-Each project is responsible for its own project website. Further information to assist contributors and PMCs is available at [Infrastructure](https://www.apache.org/dev/infrastructure.html).
+Each project is responsible for its own project website. Further examples to assist contributors and PMCs are available at [Apache Infrastructure](https://www.apache.org/dev/infrastructure.html).
 
 #### DECISION MAKING
 Projects are normally auto-governing and driven by the people who volunteer for the job. This is sometimes referred to as "do-ocracy" -- power of those who do. This functions well for most cases.
