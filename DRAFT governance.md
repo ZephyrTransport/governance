@@ -66,15 +66,15 @@ The primary role of each PMC is oversight -- not to develop the technical approa
 
 Each PMC is also tasked with furthering the long term development and health of the community as a whole, and ensuring that balanced and wide-scale peer review and collaboration happen. PMCs shall actively discourage communities centered around a two or three individuals who work without seeking broader input for long periods. We believe that this is detrimental to the quality, relevance, and robustness of products.
 
-#####PMC Chairperson
+##### PMC Chairperson
 Each PMC is led by a chairperson, and in addition consists of at least one officer of the Foundation.  The PMC may include one or more other members of the Foundation, at the discretion of the chair.
 
 The chair of a PMC is appointed by the Board, has primary responsibility to the Board, and has the power to establish rules and procedures for the day-to-day management of the communities for which that PMC is responsible, including the composition of the PMC itself.  Section 6.3 of the Bylaws define a PMC and the position of chair. 
 
-#####PMC Members
+##### PMC Members
 Members of PMCs are kept to a higher standard than all other members of the Foundation. This is because the PMCs and appointed chairs are directly responsible for the main activities carried out by the Foundation.  The Board and the membership rely on each PMC to ensure that their corresponding communities always behave in a lawful manner, and in accordance to the Bylaws and the mission and goals of the Foundation.
 
-#####PMC Concepts and Governance
+##### PMC Concepts and Governance
 The Zephyr Foundation takes many of its PMC ideas from the Apache Foundation. The [Apache Developer Information](https://www.apache.org/dev/) is taken as guidance where specific Zephyr Foundation PMC guidance has yet to be established and there are no conflicts with Zephyr Foundation bylaws or other established governance.
 
 #### OFFICERS OF THE FOUNDATION
