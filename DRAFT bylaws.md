@@ -225,9 +225,6 @@ Any books, records and minutes may be in written form or in any other form capab
 #### Section 7.2. *Members' Inspection Rights*.
 Any person who is a member, upon written demand under oath stating the purpose thereof, shall have the right to examine, in person or by agent or attorney, at any time during the corporation's usual hours for business, for any proper purpose as determined under the General Corporation Law of the State of Delaware, the corporation's membership records and its other books and records and to make copies or extracts therefrom. 
 
-#### Section 7.3. *Annual Audit Requirement*
-The corporation shall complete an annual audit of its financial records. The audit shall be completed by an independent auditor with no affiliation to the corporation. The audit shall be reported to the Board, its officers, and its members in a timely manner in accordance with the corporations notification procedures. The secretary of the corporation shall retain audits for a minimum of 5 years or as prescribed in state or federal statute, whichever is longer.
-
 ## ARTICLE VIII
 ### Non-profit Status
 
